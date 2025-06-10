@@ -38,7 +38,7 @@ A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Ge
 
 | Message Distribution | User Activity Over Days |
 |----------------------|-------------------------|
-| ![msg_dist](images/message.png) | ![user_activity](images/individual.png) |
+| ![msg_dist](message.png) | ![user_activity](individual.png) |
 
 ---
 
