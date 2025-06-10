@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-blueviolet)
 
 A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Generation (RAG), contextual semantic search, visual insights, and LLM-based query expansion — all in a beautiful Streamlit app!
