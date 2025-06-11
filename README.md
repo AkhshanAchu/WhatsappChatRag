@@ -47,7 +47,7 @@ A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Ge
 
 ```bash
 git clone https://github.com/yourusername/whatsapp-rag-analyzer.git
-cd whatsapp-rag-analyzer
+cd WhatsappChatRag
 
 ```
 ### 2. Install Requirements
