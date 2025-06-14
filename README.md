@@ -8,32 +8,32 @@ A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Ge
 
 ---
 
-## 🔍 Features
+##  Features
 
-### 🧠 Contextual & Semantic Search (RAG)
+###  Contextual & Semantic Search (RAG)
 - Supports **TF-IDF**, **BM25**, **FAISS**, and **Hybrid Fusion**
 - Uses **Reciprocal Rank Fusion (RRF)** to merge scores from multiple search methods
 - Optional **query expansion using local LLMs via [Ollama](https://ollama.com/)**
 
-### 📊 Visual Analytics
-- 👥 Per-Participant Stats
-- 📆 Messages by Weekday
-- ⏱ Hourly Activity per Sender
-- 📅 Message distribution over time
-- 👥 Daily participation of each member
-- 📈 Burst detection to highlight sudden activity spikes
-- 🕐 Most active hours and days
-- 🔥 Heatmap of Daily Activity by Participant
-- 👤 Daily Activity by Participant
+### Visual Analytics
+-  Per-Participant Stats
+-  Messages by Weekday
+-  Hourly Activity per Sender
+-  Message distribution over time
+-  Daily participation of each member
+-  Burst detection to highlight sudden activity spikes
+-  Most active hours and days
+-  Heatmap of Daily Activity by Participant
+-  Daily Activity by Participant
 
-### 💡 Streamlit UI
+###  Streamlit UI
 - Responsive and interactive chat analyzer interface
 - Contextual search bar
 - Clean visualization of chat trends and user behavior
 
 ---
 
-## 🖼️ Sample Visualizations
+##  Sample Visualizations
 
 | Message Distribution | User Activity Over Days |
 |----------------------|-------------------------|
@@ -41,7 +41,7 @@ A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Ge
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repo
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```bash
 ollama run **Your Model**
 ```
-### 💡Usage
+### Usage
 - Export a WhatsApp chat in .txt format
 - Place the file inside the data/ folder (e.g. data/chat.txt)
 - Run the app:
