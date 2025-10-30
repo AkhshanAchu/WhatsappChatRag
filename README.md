@@ -46,7 +46,7 @@ A powerful and modern way to analyze WhatsApp chats using Retrieval-Augmented Ge
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-rag-analyzer.git
+git clone https://github.com/AkhshanAchu/whatsapp-rag-analyzer.git
 cd WhatsappChatRag
 
 ```
@@ -69,4 +69,5 @@ ollama run **Your Model**
 ```bash
 streamlit run app.py
 ```
+
 
